@@ -1,0 +1,8 @@
+[project]
+name = "research-discovery-os"
+version = "0.0.1"
+description = "Codex-native research workspace with persistent evidence and experiments"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
